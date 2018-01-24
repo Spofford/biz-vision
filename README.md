@@ -1,4 +1,4 @@
-#About this Document#
+# About this Document
 
 Since its start, the leadership of Spofford Design sought to create a design-led organization, which we understand as a learning-led organization above all. Everyone involved in the Spofford seeks to both listen and teach (with equal passion). Documentation plays a crucial role in this generative give and take. We explore, we get lost a little, we discover questions we had never considered. But eventually, we all have to transform what the world has told us through a process of convergence, in which we synthesize and organize our thoughts, not only for our own benefit, but for the sake of communicating what we have discovered in our exploration.
 
@@ -12,7 +12,7 @@ If you're a new employee of Spofford Design, remember that you don't only become
 
 Welcome to Spofford Design, and please feel free to comment or email any questions to adam.h@spofforddesign.com.
 
-#About this Version#
+# About this Version
 This is the inaugural version of Spofford's Business Plan and Vision Document. The training wheels are still on a bit as we figure out the best ways to communicate what we do, what we will do, and what we've done. We will release a new version of this document every quarter to demonstrate what we've learned in the past three months by editing and modifying the document to reflect the most recent thinking, experimental results, and additional information we'd like to include. If there's something missing that you'd like to learn more about, please email adam.h@spofforddesign.com.
 
-#Sections#
+# Sections
