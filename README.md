@@ -16,3 +16,4 @@ Welcome to Spofford Design, and please feel free to comment or email any questio
 This is the inaugural version of Spofford's Business Plan and Vision Document. The training wheels are still on a bit as we figure out the best ways to communicate what we do, what we will do, and what we've done. We will release a new version of this document every quarter to demonstrate what we've learned in the past three months by editing and modifying the document to reflect the most recent thinking, experimental results, and additional information we'd like to include. If there's something missing that you'd like to learn more about, please email adam.h@spofforddesign.com.
 
 # Sections
+* [Executive Summary](./executive-summary.md)
