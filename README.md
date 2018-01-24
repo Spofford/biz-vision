@@ -27,3 +27,7 @@ This is the inaugural version of Spofford's Business Plan and Vision Document. T
 * [Operations](./operations.md)
 * [Financial Pro Formas and Requirements](./financial-pro-forma-requirement.md)
 * [Operations](./operations.md)
+* [Exhibit A: Bibliography]
+* [Exhibit B: Financial Pro Formas]
+* [Exhibit C: Consumer Sentiment Research]
+* [Exhibit D: Megaregional Markets Research]
