@@ -17,3 +17,13 @@ This is the inaugural version of Spofford's Business Plan and Vision Document. T
 
 # Sections
 * [Executive Summary](./executive-summary.md)
+* [Company Description](./company-description.md)
+* [Industry Analysis](./industry-analysis.md)
+* [Market and Competition](./market-competition.md)
+* [Strategies and Goals](./strategies-and-goals.md)
+* [Products and Services](./products-services.md)
+* [Marketing and Sales](./marketing-sales.md)
+* [Management and Organization](./management-organization.md)
+* [Operations](./operations.md)
+* [Financial Pro Formas and Requirements](./financial-pro-forma-requirement.md)
+* [Operations](./operations.md)
