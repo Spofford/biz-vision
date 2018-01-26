@@ -1,3 +1,9 @@
+Where are we going, how will we get there?
+
+Increasing complexity, wicked problems
+
+
+
 Initial dinner Party
 
 Must include mention and description of original interviews with original participants, which were the inspiration for this
@@ -68,4 +74,53 @@ _Spofford Design Prototype Hubs (SDPH). These hubs will be the brand network con
 
 _SDPH could include manufacturing staff, designers, business development and marketers. While their role will continue to include product prototyping, the initial focus can combine initial production and direct training. _
 
-_Megaregions are extremely large, encompassing many metropolitan regions and hundreds of square miles. Determining the SDPH site locations is not an exact science, and will require deliberate discernment. The different layers of data required will mirror Spofford Design’s focus on connecting consumers, manufacturers and designers. The location of the Prototype Hubs will based on close proximity to target market consumers, in a location with a design and makers ethos. These locations will be dynamic and growing, places Spofford Design team members would want to live. _
+_Megaregions are extremely large, encompassing many metropolitan regions and hundreds of square miles. Determining the SDPH site locations is not an exact science, and will require deliberate discernment. The different layers of data required will mirror Spofford Design’s focus on connecting consumers, manufacturers and designers. The location of the Prototype Hubs will based on close proximity to target market consumers, in a location with a design and makers ethos. These locations will be dynamic and growing, places Spofford Design team members would want to live._
+
+Michael Porter....drew the attention of policymakers to the importance of clusters -- geographic concentrations of related businesses and support organizations -- as a key driver of regional prosperity.
+
+Traditional Corporate strategic planning:
+--thinking and doing separated. A small group of top managers define the strategic plan. Other lower in the organization execute it.
+--linear and stable
+--reliable for years into the future
+--Based on analysis. Gather facts first
+
+the strong economic performance of some "high technology" regions, such as silicon valley, boston's route 128, and research triangle park in north carolina, suggested that collaboration among universities, government and the private sector could successfully promote higher growth, high technology development. [replicate silicon valley]
+
+Rhode Island Strategic Development Commission
+
+_*Successful economic development requires broad-based support, and this support depends only partially on facts. Emotions -- how people feel about their future -- play an equally important role.
+*Politics matter. If public money part of the plan, strategy depends on voters, business leaders may have ideas and money, but they rarely have enough votes. the process is as important, if not more so, than the final recommendations.
+*The need for public consultation is ongoing throughout the process. Authentic engagement is not satisfied with an event, summit, etc. Support emerges gradually and disappears quickly. Not easily streamlined, taking shortcuts risky. Takes time to build consensus.
+*top down from corporate does not translate to civic. Can't tell what to do._
+
+The public is often invited to contribute ideas through forums, or more recently, a project website
+
+When it comes to translating words on the page to action in the streets, the process tends to break down. The reason is simple. Consultants rarely have the deep local knowledge needed to guide implementation.
+
+To forge consensus, regional leaders often draft vision statements that turn out ot be bland and confusing.
+
+Regional development strategies are formed and executed in the "civic space" oustide the four walls of an one organizaation...the civic life of most regions involves complex interactions of organizations and personalities that defy simple description and quick analysis.
+
+It is not always true that the best mousetrap wins, and markets do not necessarily settle on a single equilibrium point.
+
+NASH equilibrium, no advantage to changing strategy, but knowledge changes equilibrium, hence any one market is predicated on efficiency of knowledge creation and transfer (discourse)
+
+Because the competitive consequences of new knowledge are dynamic and uncertain, businesses compete differently. They look for new waves of increasing returns, and to do so, they collaborate to compete. In these markets, successful strategies value agility, flexibillity, speed, collaboration, and continuous learning.
+
+clusters enable firms to leverage their assets and manage the risks of rapidly shifting markets. Embedded in a cluster, businesses can learn faster, spot opportunities faster and locate partners faster. They can be more competitive.
+
+“In an age when everyone has instant access to infinite information, sense-­making––the ability to turn flows of information in real knowledge––has become today’s scarcest and most valuable resource and the key leverage point for value creation. The company’s primary source of wealth is therefore derived from its insights, knowledge, and ideas. Its success depends on how it leverages its intellectual capital.”
+
+Four questions:
+What could we do? - assets embedded in network
+What should we do? - opportunity converted to shared outcome, measurable characteristics...our civic discussions that surround regional development are not very deep, disciplined, or focused. Our conventional civic conversations often represent a series of monologues, loosely strung together. Groups are not fully engaged in the deep thinking required to design compelling, shared outcomes. __To break this cycle, a disciplined conversation to design at least one shared outcome becomes a critical step in aligning a network with 'link and leverage' strategies.__
+What will we do? -- who does what by when. transparent commitments. trust.
+What's our 30/30? -- last 30 days, next 30 days. strategy is never done, acknolwedges constant process of learning and adjustment.
+
+*Building brainpower*
+*creating support networks for innovation and entrepreneurship*
+*develop quality, connected places*
+*creating new narratives*
+*strengthening collaboration*
+
+"...knowledge has become the only source of long-run sustainable advantage, but knowledge can only be employed through the skills of individuals."

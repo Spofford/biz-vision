@@ -1,3 +1,5 @@
+Brand book and marketing plan
+
  Thailand: customers visit stores to get new ideas about furniture before buying one
 
  _partnership with a tool like modsy_
