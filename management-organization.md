@@ -5,3 +5,7 @@ _It’s essential that each hub is incorporated as a local business, owned in pa
 _“Managing partner”_
 
 _Corporation handles infrastructure (digital and otherwise), investment, and other services, HR (health insurance, union support), coordination and communication between entities, warehousing and physical plant, foundation/giving, health insurance...._
+
+_Partner, Manager, Associate_
+
+_Corporate vs Hub staff_
