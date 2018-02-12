@@ -29,4 +29,4 @@ This is the inaugural version of Spofford's Business Plan and Vision Document. T
 * [Exhibit A: Bibliography]
 * [Exhibit B: Financial Pro Formas](./pro-formas.xlsx)
 * [Exhibit C: Consumer Sentiment Research Prospectus]
-* [Exhibit C: Dinner Party/Workshop Report](./dinner-workshop.pdf)
+* [Exhibit D: Dinner Party/Workshop Report](./dinner-workshop.pdf)
