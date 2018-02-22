@@ -1,4 +1,4 @@
-*Metrics and Goals*
+## *Metrics and Goals*
 Our vision of success hinges on the success of network members. Spofford Design seeks to pursue interventions that elevate the growth of its network members, and core metrics measure the success of these interventions relative to those touched by them. Example metrics include:
 * Consumer invitations to their friends to participate in Spofford’s network
 * Increased sales for designers
@@ -8,7 +8,7 @@ Spofford Design needs to become a sustainable company in order to provide assist
 * Grant money awarded
 * A diverse set of investors for a pre-seed funding round in six to eight months
 
-*Strategies*
+## *Strategies*
 We will start to cultivate consumer brand recognition and bring in revenue from an initial, curated collection made up of vintage goods, repurposed seconds market materials, and items already available for purchase from regional designers. These products will be available for purchase online, and consumers can test them at stand alone next generation retail locations (see “Marketing and Sales”), or at sites owned by partners willing to feature our products.
 
 Meanwhile, Spofford will:
@@ -23,7 +23,7 @@ These network development efforts will ostensibly serve to unlock the knowledge 
 * Act as a “third place” for individuals in the nearby physical communities to gather and enjoy refreshments of all kinds, thereby aligning us with the complementary market of farm-to-table food.
 It is our hope that each one of these spaces, individually incorporated and managed, will receive funding from sources besides Spofford Design, and provide one of many opportunities that Spofford Design hopes to create to engage with the process of furniture creation and reimagine product discovery.
 
-*Methods*
+## *Methods*
 A key strategy in our pursuit of understanding network requirements and frustrations is human-centered design. Human-centered design loosely coincides with the following steps:
 * Empathy, which demands assessment, trust, and extensive interviewing with those the designer seeks to advocate for with a design intervention.
 * Insights, in which the designer searches for patterns or deeper issues underlying the information gathered.

@@ -1,17 +1,17 @@
-*At a Glance*
+## *At a Glance*
 * The U.S home furnishings market has grown 4.2% annually since 2012
 * Millennials have quickly emerged as the fastest growing segment of this market, and now represent 37% of households buying furniture and $27 billion in sales in 2014 (a staggering 142% increase from 2012)
 * Meanwhile, U.S. home furnishings manufacturing has only grown by 1.1% annually since 2012. The recession negatively impacted the industry more than its cousin office furniture manufacturing or the home furnishings manufacturing industry in Italy.
 * Imported and off-shored furniture has made up the difference, and continues to increase to meet consumer demand
 
-*A struggling U.S. home furnishings manufacturing market*
+## *A struggling U.S. home furnishings manufacturing market*
 Analysts seem to have already written the eulogies for U.S. home furnishings manufacturing, a struggle that on the surface seems peculiar given the rapid growth in demand. Once a thriving sector, offshored production has tested the industry. Claiming a lack of talent or an inability to pay qualified workers, the industry has consolidated as factories throughout the country have shuttered and university programs to train qualified workers along with them. But while legacy companies may claim themselves the victims of forces beyond their control, the data suggests that rather than a slowing market or competition that manufacturers couldn’t keep up with, the demise of home furnishings manufacturing was a product of the industry’s own doing.
 
 Very importantly, consumer demand climbs as Americans aged 24-35 (“the millennials”) have started to move in with partners, buy homes, and have children, all points at which individuals buy furniture. A market segment worth $27 billion in sales in 2014, this market segment grew 142% between 2012 to 2014. Nonetheless, manufacturing hasn’t grown along with it.
 
 The result of the industry’s short-sightedness and lack of leadership have impacts on an both the upcoming generation of designers, and the consumers that would buy their furniture. Legacy companies industry make claims that young people entering the market don’t want quality, despite evidence that today’s consumers in believe that quality is the most important factor when making a purchasing decision (Nicole Ponder, “Consumer Attitudes and Buying Behavior for Home Furniture”, 2013).
 
-*What explains this disconnect?*
+## *What explains this disconnect?*
 * Furniture produced by legacy manufacturers may tout a higher level of quality than its imported analog, but it looks the same as the furniture in your aunt or mom’s house.
 * The experience of buying furniture has remained unchanged for fifty years. The desires of the group of people buying furniture has shifted, and consumers are looking for something more aligned with an experience.
 * The legacy companies’ response to consumer demand has been a misguided attempt at catering to consumer tastes, as companies race toward infinite customization and an ever lower price point.
@@ -24,7 +24,7 @@ The hulking, legacy companies failed to adapt their organizations and and train 
 
 Meanwhile, the up and coming generation of furniture designers have gone out on their own. They have a desire for a more human-centered approach to product development, without the resources to execute on it. They also have the closest relationships with providers of materials like textiles and wood. But the objects they create are largely made by hand and piece-by-piece, putting most well-designed and regionally-produced furniture out of monetary reach of many consumers because fabricating and marketing at scale remains an impossibility under current conditions.
 
-*Positive Trends*
+## *Positive Trends*
 Our research indicates that, consumers and the economy at large are better served by decentralized networks that are more agile and flexible, rather than top-down, consolidated manufacturing. These networks and their participants represent a robust discourse through which knowledge, information, and expertise flow. These are the real cradles of innovation, transforming, adjusting, and evolving in exciting ways. Even before the age of infinite information, Lombardy, Italy has thrived exactly because of the tremendous network within it, and gives Spofford Design a great deal of hope that similar networks can come about in the United States.
 
 The conditions are already in place for the cultural, social, and economic change necessary for transformation:
