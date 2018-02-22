@@ -9,6 +9,7 @@ Megaregions are large networks of metropolitan regions that share the following:
 * economic linkages
 * settlement/land use patterns
 * culture or history
+
 Economic and sociological studies by scholars and groups such as America 2050, Lang and Dhavale, Richard Florida, and the Center for Quality Growth and Regional Development (Georgia Institute of Technology) argue that between now and 2050, **more than half of the nation’s population growth and as much as two-thirds of its economic growth will occur in eight to eleven megaregions**, depending on the study. These figures correspond with trends occurring outside of the United States, with regions such as the greater Buenos Aires to Rosario corridor in Argentina, the Nile River Delta, and the Pearl River Delta developing along similar trajectories.
 
 An understanding of the benefits of working within these regions as an economic paradigm is nothing new, and Spofford Design again points to the example of Italy. Two examples stand out, and for different reasons: Emilia-Romagna and Lombardy. Because of the unique history of Italy, both of these regions’ borders reflect economic activity more than they reflect arbitrary administrative lines. Northern Italy’s innovation network (which includes hubs like Milan), and the global brand it has created, is synonymous with taste and forward thinking design that supersedes that of any one company. This regional brand strength illustrates how the firms within the region benefit from simply participating in the region’s economy beyond simple transactional engagement.
