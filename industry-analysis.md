@@ -1,1 +1,34 @@
+*At a Glance*
+* The U.S home furnishings market has grown 4.2% annually since 2012
+* Millennials have quickly emerged as the fastest growing segment of this market, and now represent 37% of households buying furniture and $27 billion in sales in 2014 (a staggering 142% increase from 2012)
+* Meanwhile, U.S. home furnishings manufacturing has only grown by 1.1% annually since 2012. The recession negatively impacted the industry more than its cousin office furniture manufacturing or the home furnishings manufacturing industry in Italy.
+* Imported and off-shored furniture has made up the difference, and continues to increase to meet consumer demand
 
+*A struggling U.S. home furnishings manufacturing market*
+Analysts seem to have already written the eulogies for U.S. home furnishings manufacturing, a struggle that on the surface seems peculiar given the rapid growth in demand. Once a thriving sector, offshored production has tested the industry. Claiming a lack of talent or an inability to pay qualified workers, the industry has consolidated as factories throughout the country have shuttered and university programs to train qualified workers along with them. But while legacy companies may claim themselves the victims of forces beyond their control, the data suggests that rather than a slowing market or competition that manufacturers couldn’t keep up with, the demise of home furnishings manufacturing was a product of the industry’s own doing.
+
+Very importantly, consumer demand climbs as Americans aged 24-35 (“the millennials”) have started to move in with partners, buy homes, and have children, all points at which individuals buy furniture. A market segment worth $27 billion in sales in 2014, this market segment grew 142% between 2012 to 2014. Nonetheless, manufacturing hasn’t grown along with it.
+
+The result of the industry’s short-sightedness and lack of leadership have impacts on an both the upcoming generation of designers, and the consumers that would buy their furniture. Legacy companies industry make claims that young people entering the market don’t want quality, despite evidence that today’s consumers in believe that quality is the most important factor when making a purchasing decision (Nicole Ponder, “Consumer Attitudes and Buying Behavior for Home Furniture”, 2013).
+
+*What explains this disconnect?*
+* Furniture produced by legacy manufacturers may tout a higher level of quality than its imported analog, but it looks the same as the furniture in your aunt or mom’s house.
+* The experience of buying furniture has remained unchanged for fifty years. The desires of the group of people buying furniture has shifted, and consumers are looking for something more aligned with an experience.
+* The legacy companies’ response to consumer demand has been a misguided attempt at catering to consumer tastes, as companies race toward infinite customization and an ever lower price point.
+* Legacy companies fail to acknowledge the motivation to buy furniture. The consumer wishes for an experience in their life, and furniture plays a role in that.
+To Spofford Design, this all smacks of the same dehumanization that legacy companies demonstrated in their relationship with their labor force.
+
+While we agree that the age of unskilled manufacturing labor has long passed, opportunities abound for skilled labor, capable of working with their hands and adept with new technology. The office furniture industry made smart investments in new technology (as well as making investments in the people to use it) in the 1990s when home furnishings did not, choosing instead to of compete solely on costs by offshoring production.
+
+The hulking, legacy companies failed to adapt their organizations and and train their labor forces. By not welcoming and inclusive to non-traditional workers, they severely limited their potential talent pool, which now leaves the workforce in droves as they retire. These externalities don’t end at the strictly social: new environmental regulations on materials usagee, clean work environments, and pollution have without question increased significantly in the last few decades. The home furnishings industry responded with reactionary pushback instead of leadership.
+
+Meanwhile, the up and coming generation of furniture designers have gone out on their own. They have a desire for a more human-centered approach to product development, without the resources to execute on it. They also have the closest relationships with providers of materials like textiles and wood. But the objects they create are largely made by hand and piece-by-piece, putting most well-designed and regionally-produced furniture out of monetary reach of many consumers because fabricating and marketing at scale remains an impossibility under current conditions.
+
+*Positive Trends*
+Our research indicates that, consumers and the economy at large are better served by decentralized networks that are more agile and flexible, rather than top-down, consolidated manufacturing. These networks and their participants represent a robust discourse through which knowledge, information, and expertise flow. These are the real cradles of innovation, transforming, adjusting, and evolving in exciting ways. Even before the age of infinite information, Lombardy, Italy has thrived exactly because of the tremendous network within it, and gives Spofford Design a great deal of hope that similar networks can come about in the United States.
+
+The conditions are already in place for the cultural, social, and economic change necessary for transformation:
+* Ninety-four percent of manufacturers in the United States have fewer than 100 employees (Leading Edge Alliance, “2017 National Manufacturing Outlook and Insights”, 2017). They’re smaller in size and use higher tech tools to cater to more innovation and creativity.
+* The farm-to-table movement has provided ample evidence that over time a new sensitivity to regional production on the part of both consumers and producers can (and has) become mainstream.
+* The maker movement also strikes a hopeful note. Observers and participants of the movement have learned a great deal about how to cultivate a community around creativity and innovation, and what a true democratization of design looks like.
+* Many regions of the United States retain their culture of hand-crafting and historical character, which when brought together in a decentralized, equitable, inclusive community could serve as an “invisible factory” or democratic R&D lab. Participation could contribute significantly to local economies. While certainly coalitions and consortia related to synchronizing supply chain efforts or connecting small producers to consumers exist and often succeed, the design and development of products across networks remains an untested concept as we propose it.
