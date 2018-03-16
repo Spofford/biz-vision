@@ -4,7 +4,7 @@ Since its start, the leadership of Spofford Design sought to create a design-led
 
 Welcome to Spofford Design, and please feel free to comment or email any questions to adam.h@spofforddesign.com.
 
-# About Version 1
+# About This Version
 This is the inaugural version of Spofford's Business Plan and Vision Document. The training wheels are still on a bit as we figure out the best ways to communicate what we do, what we will do, and what we've done. We will release a new version in April that describes the results of our experimentation and what we've learned by connecting with people. If there's something missing that you'd like to learn more about, please email adam.h@spofforddesign.com.
 
 # Sections
