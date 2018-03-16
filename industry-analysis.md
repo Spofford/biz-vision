@@ -1,7 +1,7 @@
 ## *At a Glance*
-* The U.S home furnishings market has grown 4.2% annually since 2012
+* The U.S home furnishings market has grown 4.2% annually since 2012, and will reach $115 billion in 2018
 * Millennials have quickly emerged as the fastest growing segment of this market, and now represent 37% of households buying furniture and $27 billion in sales in 2014 (a staggering 142% increase from 2012)
-* Meanwhile, U.S. home furnishings manufacturing has only grown by 1.1% annually since 2012. The recession negatively impacted the industry more than its cousin office furniture manufacturing or the home furnishings manufacturing industry in Italy.
+* Meanwhile, U.S. home furnishings manufacturing has only grown by 1.1% annually since 2012. The recession negatively impacted the industry more than its cousin office furniture manufacturing or the home furnishings manufacturing industry in Italy
 * Imported and off-shored furniture has made up the difference, and continues to increase to meet consumer demand
 
 ## *A struggling U.S. home furnishings manufacturing market*
