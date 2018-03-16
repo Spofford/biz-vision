@@ -25,7 +25,5 @@ Services predicted for manufacturers include:
 * Labor force development and recruiting.
 We intend to better understand how these various actors connect now through close observation in situ, and provide infrastructure, be it digital, financial, or physical, to strengthen these community bonds.
 
-## *Investment and Intellectual Property Assets*
-It is important to note, especially given this characterization of Spofford Design as an entity that provides essential infrastructure to the community,  the potential role of Spofford Design as a purveyor of investment instruments and data. Within a very short period of time, Spofford Design will have a better sense than anyone in the world of points in the value chain that require entities within a region to go outside it in order to complete a task or procure a material. Spofford Design will have the unique position of knowing the best opportunities for investing in a region’s economy. We could have the option of doing it on our own, or partnering with an existing interest to either build a machine or train labor, and even proliferate alternative organizational models such as worker cooperatives.
-
+## *Data Assets*
 The enormous amount of data that Spofford Design will inevitably collect will provide us with a highly desirable position. Analysis into this data will support efforts like those noted above. In addition, we will possess sufficient data to predict to a high degree of accuracy those objects most needed by our market. Providing designer partners with this information at the outset will ensure more and more frequent success in the market of our products.

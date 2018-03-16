@@ -2,7 +2,7 @@
 * Significant emphasis on inbound marketing as a means of sharing and co-creating stories. Shows and videos, webinars, Pinterest-style taste cultivation, featurettes on network members all provide this narrative experience.
 * Collection curation that reflects a deep sense of place, extending to culture, history, and materials.
 * A tone of acknowledgment of the journey consumers are on and strong sense of empathy, and serving as the outfitter for the next step in that journey
-* An invitation to become part of a society, where frustrations and ambitions are understood and creativity is nurtured.
+* An invitation to become part of a community, where frustrations and ambitions are understood and creativity is nurtured.
 * Today’s consumers research furniture buying decisions and plan interiors almost exclusively online, but they still desire a physical experience to make a purchase, even if they ultimately buy online as well.
 * The purchasing experience falls far below consumer expectations
 * Retail in general is transforming away from traditional showrooms to curated and serendipitous experiences

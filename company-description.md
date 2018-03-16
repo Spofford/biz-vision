@@ -1,4 +1,4 @@
-For designers, manufacturers, and consumers who need support and connection around product development and discovery, Spofford Design is THE mutual benefit network that delivers a new way of making our stuff, because Spofford Design is reinventing the economic landscape of regional furniture manufacturing.
+Spofford develops regional networks to change product discovery, development, and sales in the world of home furnishings. Consumers care more than ever about where the objects they buy have come from, who created them, and the environmental footprint they leave behind. Our focus is to provide these customers with a journey that is unique and deeply embedded in a sense of place and belonging. This regional connection can only occur through close partnerships with independent designers and the small to medium-sized manufacturers that have been the lifeblood of regional economies for generations. 
 
 ## *What we do*
 * Develop digital tools to ease the interactions between manufacturers, designers, and consumers for the sake of collaborative product design, development, and discovery.
